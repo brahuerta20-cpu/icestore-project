@@ -8,6 +8,7 @@ Este proyecto consiste en analizar los datos históricos de videojuegos disponib
 # Herramientas y tecnologías.
 
 - Excel: Archivo CSV.
+- Jupyter Notebook.
 - Librerías de Python: Pandas, numpy, matplotlib y scipy.
 - Procesamiento y manipulación de datos.
 - Visualización de datos.
