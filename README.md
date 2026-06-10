@@ -21,7 +21,7 @@ Este proyecto consiste en analizar los datos históricos de videojuegos disponib
 - Exploré la evolución de las ventas por plataforma y género mediante análisis descriptivos y visualizaciones.
 - Identifiqué plataformas con crecimiento, estabilidad o declive para determinar cuáles presentaban mayor potencial comercial.
 - Analicé la relación entre las calificaciones de usuarios y críticos con el desempeño en ventas.
-- Comparé el comportamiento de diferentes mercados regionales (Norteamérica, Europa y Japón) para detectar preferencias específicas.
+- Comparé el comportamiento de diferentes mercados regionales (Norteamérica, Estados Unidos y Japón) para detectar preferencias específicas.
 - Evalué el impacto de las clasificaciones ESRB sobre las ventas y el comportamiento del consumidor.
 - Formulé y validé hipótesis estadísticas para determinar si existían diferencias significativas entre grupos relevantes de videojuegos y plataformas.
 
